@@ -32,6 +32,10 @@ babel.config.js
 package.json
 README.md
 ```
+## Illustration
+
+- **Landing Page Screenshot**  
+  ![Shop Landing Page](https://github.com/Mostapha-El-Kaddaoui/Shoes-Shop-VueJS/blob/main/shop.jpeg?raw=true)
 
 ## Contributing
 
